@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Accessing Längle's 4FMs Through Guided Meditation — 3FM: May I be myself? (The Person)"
+authors:
+  - family-names: Nelson-Zutter
+    given-names: Graham
+    affiliation: "Aestra Inc."
+license: CC-BY-NC-ND-4.0
+version: 1.0.0
+date-released: "2026-06-04"
+url: "https://research.aestra.ca/ea-meditations/"
