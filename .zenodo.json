@@ -1,6 +1,6 @@
 {
   "title": "Accessing Längle's 4FMs Through Guided Meditation — 3FM: May I be myself? (The Person)",
-  "description": "<p>A guided meditation on the third of Alfried Längle's Four Fundamental Motivations (4FMs) — <em>The Person: May I be myself?</em> — translating its three existential prerequisites (Attention, Justice, and Appreciation) into guided imagery. Includes the audio recording, full transcript (PDF/TXT), captions (VTT) and word-level timings (CSV). Companion to the WCET4 (2026) workshop by Graham Nelson-Zutter.</p>",
+  "description": "<p>A guided meditation on the third of Alfried Längle's Four Fundamental Motivations (4FMs) — <em>The Person: May I be myself?</em> — translating its three existential prerequisites (Attention, Justice, and Appreciation) into guided imagery. Includes the audio recording, full transcript (PDF/TXT), captions (VTT) and word-level timings (CSV). Companion to the WCET4 (2026) workshop by Graham Nelson-Zutter. This version adds the <em>scored text</em>: the caption cue text stripped of its header, notes, cue numbers and timings, which is the exact text scored in the ISEA Journal study.</p>",
   "creators": [
     {
       "name": "Nelson-Zutter, Graham",
@@ -20,8 +20,8 @@
     "embodiment"
   ],
   "language": "eng",
-  "version": "1.0.0",
-  "publication_date": "2026-06-04",
+  "version": "1.0.2",
+  "publication_date": "2026-10-22",
   "related_identifiers": [
     {
       "identifier": "https://research.aestra.ca/ea-meditations/",
